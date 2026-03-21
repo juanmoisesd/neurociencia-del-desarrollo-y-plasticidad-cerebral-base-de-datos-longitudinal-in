@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl",
+  "description": "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl",
+  "url": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in",
+  "sameAs": "https://juanmoisesd.github.io/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in/",
+  "identifier": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "bdnf, brain-development, cc0, dataset, maduracion-cortical, neurociencia-del-desarrollo, open-data, periodos-criticos, plasticidad-cerebral, poda-sinaptica, synaptic-pruning, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in"
+    }
+  ]
+}
