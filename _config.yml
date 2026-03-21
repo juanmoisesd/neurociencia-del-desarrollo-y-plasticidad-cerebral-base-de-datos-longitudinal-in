@@ -1,5 +1,43 @@
-title: "Neurociencia del Desarrollo y Plasticidad Cerebral: Base de "
-description: "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por "
-author: "Juan Moisés de la Serna Tuya"
+# Jekyll configuration for GitHub Pages
+title: "neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in"
+description: "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl"
 url: "https://juanmoisesd.github.io"
 baseurl: "/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in"
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
+
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
