@@ -1,0 +1,11 @@
+bdnf, brain-development, cc0, dataset, maduracion-cortical, neurociencia-del-desarrollo, open-data, periodos-criticos, plasticidad-cerebral, poda-sinaptica, synaptic-pruning, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
