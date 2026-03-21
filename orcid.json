@@ -1,0 +1,16 @@
+{
+  "orcid": "0000-0002-8401-8018",
+  "name": "Juan Moisés de la Serna Tuya",
+  "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+  "email": "juanmoises.delaserna@unir.net",
+  "website": "https://juanmoisesdelaserna.es",
+  "profile": "https://orcid.org/0000-0002-8401-8018",
+  "works": [
+    {
+      "title": "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl",
+      "type": "dataset",
+      "url": "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in",
+      "year": "2026"
+    }
+  ]
+}
