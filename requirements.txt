@@ -1,0 +1,19 @@
+# Requirements for Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl
+# Author: Juan Moisés de la Serna Tuya
+# ORCID: https://orcid.org/0000-0002-8401-8018
+
+# Data analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data visualization (optional)
+matplotlib>=3.5.0
+
+# JSON/YAML processing
+pyyaml>=6.0
+
+# HTTP requests
+requests>=2.28.0
+
+# Validation
+jsonschema>=4.0.0
