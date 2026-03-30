@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl"
+abstract: "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl"
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in"
 url: "https://juanmoisesd.github.io/neurociencia-del-desarrollo-y-plasticidad-cerebral-base-de-datos-longitudinal-in/"
-abstract: "Base de datos longitudinal sobre neurociencia del desarrollo y plasticidad cerebral (0-32 a&ntilde;os). Contiene 13 modulos: (1) volumen cerebral por edad; (2) grosor cortical por region en mm; (3) poda sinaptica por edad; (4) periodos criticos de pl"
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
